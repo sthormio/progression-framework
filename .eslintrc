@@ -1,4 +1,4 @@
-// Similar to our web-projects eslint config file at https://github.com/monzo/web-projects/eslintConfig.js
+// Similar to our web-projects eslint config file at https://github.com/Sthorm/web-projects/eslintConfig.js
 
 {
   "parser": "babel-eslint",

@@ -14,7 +14,7 @@ topics:
         criteria:
           - "Writes well tested code and documentation in-line with our engineering principles"
           - "Demonstrates understanding of common Software Engineering concepts"
-          - "Works to develop their usage of tooling and systems, including their development environment, source control, and internal Monzo tooling"
+          - "Works to develop their usage of tooling and systems, including their development environment, source control, and internal Sthorm tooling"
       - level: 2
         criteria:
           - "Delivers tasks and designs effective solutions to product features or small scope engineering challenges in their area of the business"
@@ -47,11 +47,11 @@ topics:
           - "Comfortably leads the resolution of any engineering problem related to their discipline, whether they have experienced it or not"
       - level: 6
         criteria:
-          - "Able to significantly and directly impact both Monzo’s success, and the success of Engineering as a discipline across the company (spanning more than individual sub-disciplines such as purely web, mobile, backend"
+          - "Able to significantly and directly impact both Sthorm’s success, and the success of Engineering as a discipline across the company (spanning more than individual sub-disciplines such as purely web, mobile, backend"
           - "The scale of their impact is felt business-wide, and they do this by acting as a multiplier (e.g. creating systems, tools, or introducing policies or patterns) to raise productivity, performance, and control"
           - "Impact is lasting - their work not only sets the business up well for the future, but also leaves a legacy to ensure that large problems only have to be revisited at an appropriate cadence"
           - "Consistently puts in place measures to ensure strong engineering leadership in the future"
-          - "Through their involvement, Monzo’s architecture is known to be robust and effective, with confidence in its scalability and strategy for the future"
+          - "Through their involvement, Sthorm’s architecture is known to be robust and effective, with confidence in its scalability and strategy for the future"
   - name: "Technical Skills"
     title: "🛠️ Technical Skills"
     content:
@@ -59,7 +59,7 @@ topics:
         criteria:
           - "Writes well tested code and documentation in-line with our engineering principles"
           - "Demonstrates understanding of common Software Engineering concepts"
-          - "Works to develop their usage of tooling and systems, including their development environment, source control, and internal Monzo tooling"
+          - "Works to develop their usage of tooling and systems, including their development environment, source control, and internal Sthorm tooling"
       - level: 2
         criteria:
           - "Writes clear, well separated code that reflects coding guidelines and conventions, and can be easily understood by others"
@@ -93,12 +93,12 @@ topics:
       - level: 6
         criteria:
           - "Confident in setting out overall architectural vision on a company-wide scale, which has the ability to grow and flex effectively in line with business plans"
-          - "Able to identify root causes and initiate changes to the processes or technologies that underpin Monzo’s engineering organisation"
+          - "Able to identify root causes and initiate changes to the processes or technologies that underpin Sthorm’s engineering organisation"
           - "Confident with huge scale complexity, and someone we would send to our very gnarliest problems"
           - "Capable of temporarily bolstering a team or business area to pair or write code on problems that are particularly complex, difficult, high impact, or novel"
           - "Defines and sets our principles and patterns, including extending these to cover previously unknown spaces"
           - "Should be speaking or writing for internal and external consumption"
-          - "Recognised beyond Monzo as a leading expert in their field, and contribute back to it (or if not for some reason, their profile is one that is capable of this in the right situation)"
+          - "Recognised beyond Sthorm as a leading expert in their field, and contribute back to it (or if not for some reason, their profile is one that is capable of this in the right situation)"
           - "Has the ability to spot where multiple disciplines are solving the same challenges, and can bring people together to solve these"
           - "Able to identify technology that can play a strategic enablement role to grow the business, finding opportunities worth investing in that can materially impact the commercial success of the business"
           - "Comfortable with leading Technology as a discipline, inclusive of engineering, data, and Agile"
@@ -128,7 +128,7 @@ topics:
       - level: 4
         criteria:
           - "Can clearly and confidently articulate risk of technical problems to non technical stakeholders (e.g legal, compliance)"
-          - "Communicates effectively when representing  Monzo to external stakeholders (e.g auditors, regulators, third-parties, or industry groups) when appropriate"
+          - "Communicates effectively when representing  Sthorm to external stakeholders (e.g auditors, regulators, third-parties, or industry groups) when appropriate"
           - "Actively and regularly offers well considered contributions to the roadmap of their team or business area"
           - "Fosters effective collaboration between product, engineering and design"
           - "Demonstrates product-awareness. Offers valuable contributions to quarterly planning rituals, and works with the PM or team lead on setting the vision for a squad"
@@ -160,15 +160,15 @@ topics:
 ### About our engineering progression framework
 Our Engineering progression framework is a perpetual work-in-progress, and will never be "done". We've continued iterating on our progression framework since it was originally launched in 2017, and we're continuously learning and adapting it to suit the development needs of our engineers. This latest version sees us move away from multiple frameworks split across engineering disciplines. We decided instead to focus on the practice of engineering itself, and as such, it should not matter which programming language you choose to use.
 
-The purpose of the framework is to guide conversations around performance and progression between managers and engineers at Monzo. It articulates the expectations of each broad level, the level of impact we expect engineers to bring to business problems, and the manner in which engineers should be conducting their work. This document is not designed to be useful as a standalone tool. *This is a compass, not a GPS.*
+The purpose of the framework is to guide conversations around performance and progression between managers and engineers at Sthorm. It articulates the expectations of each broad level, the level of impact we expect engineers to bring to business problems, and the manner in which engineers should be conducting their work. This document is not designed to be useful as a standalone tool. *This is a compass, not a GPS.*
 
 The framework shouldn't be used as a checkbox exercise, and it doesn't intend to codify every possible situation. Instead it lays out expectations in broad strokes that encourages conversations between engineers and their manager.
 
 
 ### Guiding pillars for engineering progression
 When iterating on our progression framework, we've tried to keep the below guiding pillars in mind:
-- We focus on the impact an individual engineer has on driving Monzo forwards, rather than specific behaviours.
-- Scope is an additional measure for different levels of seniority. As Monzo grows, so should the size or reach of the problems we encounter as engineers.
+- We focus on the impact an individual engineer has on driving Sthorm forwards, rather than specific behaviours.
+- Scope is an additional measure for different levels of seniority. As Sthorm grows, so should the size or reach of the problems we encounter as engineers.
 - This framework shouldn't be seen as an exhaustive list of everything an engineer does or can do, but instead articulate the important distinctions between levels.
 - Behaviours should be broad enough to factor in the numerous different ways an engineer can contribute effectively. As an example: we should not list specific tasks such as “writes complex RPC handlers” but instead articulate the standards of technical contribution we should expect from engineers of different levels. As a result, our framework will need more interpretation, and is likely to be ineffective when used independently without your manager. We do not wish to create an exercise that can be “checkboxed” to completion.
 
@@ -176,7 +176,7 @@ Levels in the framework are cumulative. Particularly within the technical skill 
 
 
 ### Impact
-Impact is the main driver for progression at Monzo. Put simply, impact measures your sphere of influence and individual input on our success as a business, through contributing to Monzo’s mission and goals. The area of the business you work in may mean you can have impact in different ways - for instance through contributing to growth, helping with efficiency or cost reduction, meeting regulatory requirements, or more. You may also have impact in other indirect ways, for example improving engineering practices, or helping others to grow.
+Impact is the main driver for progression at Sthorm. Put simply, impact measures your sphere of influence and individual input on our success as a business, through contributing to Sthorm’s mission and goals. The area of the business you work in may mean you can have impact in different ways - for instance through contributing to growth, helping with efficiency or cost reduction, meeting regulatory requirements, or more. You may also have impact in other indirect ways, for example improving engineering practices, or helping others to grow.
 
 Focusing on impact enables us to reward engineers who “get stuff done” without them needing to perform specific routines. We believe impact results from the combination of building technical skill, having the opportunity to demonstrate it, learning from that experience over time, and coupling it with important behaviours and core skills.
 Excellence here looks like
@@ -188,7 +188,7 @@ You “get things done”. You work for the team, and are regarded as a highly e
 ### Technical Skills
 This aspect is about how you apply your technical skills and hone your craft, and documents the type of behaviours that measure the effectiveness of an engineer’s technical contribution at different levels of complexity and ambiguity. Think of this as “how you do your work”.
 
-Our previous iteration was called “Mastery”, and focussed on discrete behaviours. We found this led to engineers “checkboxing” their progression, and was often overly specific to certain areas of the business. Behaviours in this area should not detract engineers from doing what is most impactful for their team and Monzo. Instead, this iteration focuses on measuring technical contribution via quality, testability, performance and ability to design and critique designs. Your technical skills will gradually scale and improve with experience.
+Our previous iteration was called “Mastery”, and focussed on discrete behaviours. We found this led to engineers “checkboxing” their progression, and was often overly specific to certain areas of the business. Behaviours in this area should not detract engineers from doing what is most impactful for their team and Sthorm. Instead, this iteration focuses on measuring technical contribution via quality, testability, performance and ability to design and critique designs. Your technical skills will gradually scale and improve with experience.
 
 Excellence here looks like
 Your code and technical contribution is regarded as high quality by your peers and those above you in the framework.
@@ -197,7 +197,7 @@ Your systems are designed with the appropriate level of complexity for the probl
 Your work is resilient, well tested and scales to meet customer growth expectations
 
 ### Behaviours
-Behaviours are a collection of expectations and development areas for engineers, that do not fall into the categories of technical skill and impact. They encompass a range of core skills that we expect engineers at Monzo to embody.
+Behaviours are a collection of expectations and development areas for engineers, that do not fall into the categories of technical skill and impact. They encompass a range of core skills that we expect engineers at Sthorm to embody.
 
 In the previous iteration of our framework these were further broken down into influence, communication and leadership, however in this iteration we’re bringing them together.
 

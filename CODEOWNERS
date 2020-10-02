@@ -2,42 +2,42 @@
 # Each line is a file pattern followed by one or more owners.
 
 # These owners will be the default owners for everything in the repo.
-*       @monzo/org-scaling-team
+*       @sthormio/devs
 
 # These owners will be the default owners for everything in the frameworks folder.
-frameworks/*        @monzo/org-scaling-team
+frameworks/*        @sthormio/devs
 
 # These are owners for a specific engineering file extension
-*.js        @monzo/web-approvers @monzo/org-scaling-team
-*.css       @monzo/web-approvers @monzo/org-scaling-team
-*.json      @monzo/web-approvers @monzo/org-scaling-team
+*.js        @sthormio/devs
+*.json      @sthormio/devs
+*.css       @sthormio/devs
 
 # These are owners for a specific framework area
-frameworks/operations/*         @bobbi-monzo @monzo/org-scaling-team
-frameworks/design/*             @hugocornejo @monzo/org-scaling-team
-frameworks/engineering/*        @andysmart @wpillar @robinjmurphy @monzo/org-scaling-team
+frameworks/operations/*         @sthormio/devs
+frameworks/design/*             @sthormio/devs
+frameworks/engineering/*        @sthormio/devs
 
 # These are owners for a specific framework file
-frameworks/product.md               @ljkp @monzo/org-scaling-team
-frameworks/people.md                @raramonzo @monzo/org-scaling-team
-frameworks/generic.md               @emmanorthcott @monzo/org-scaling-team
-frameworks/executive-support.md     @jonashuckestein @monzo/org-scaling-team
-frameworks/marketing.md             @trstnthms @monzo/org-scaling-team
-frameworks/customer-operations.md   @jacqbridge
+frameworks/product.md               @sthormio/devs
+frameworks/people.md                @sthormio/devs
+frameworks/generic.md               @sthormio/devs
+frameworks/executive-support.md     @sthormio/devs
+frameworks/marketing.md             @sthormio/devs
+frameworks/customer-operations.md   @sthormio/devs
 
 # These are owners for a specific engineering file or folder
-src/*                   @monzo/web-approvers @monzo/org-scaling-team
-stubs/*                 @monzo/web-approvers @monzo/org-scaling-team
-.eslintignore           @monzo/web-approvers @monzo/org-scaling-team
-.eslintrc               @monzo/web-approvers @monzo/org-scaling-team
-.flowconfig             @monzo/web-approvers @monzo/org-scaling-team
-.gitignore              @monzo/web-approvers @monzo/org-scaling-team
-.prettierrc             @monzo/web-approvers @monzo/org-scaling-team
-CODEOWNERS              @monzo/org-scaling-team
-README.md               @monzo/web-approvers @monzo/org-scaling-team
-gatsby-config.js        @monzo/web-approvers @monzo/org-scaling-team
-gatsby-browser.js       @monzo/web-approvers @monzo/org-scaling-team
-gatsby-node.js          @monzo/web-approvers @monzo/org-scaling-team
-netlify.toml            @monzo/web-approvers @monzo/org-scaling-team
-package.json            @monzo/web-approvers @monzo/org-scaling-team
-yarn.lock               @monzo/web-approvers @monzo/org-scaling-team
+src/*                   @sthormio/devs
+stubs/*                 @sthormio/devs
+.eslintignore           @sthormio/devs
+.eslintrc               @sthormio/devs
+.flowconfig             @sthormio/devs
+.gitignore              @sthormio/devs
+.prettierrc             @sthormio/devs
+CODEOWNERS              @sthormio/devs
+README.md               @sthormio/devs
+gatsby-config.js        @sthormio/devs
+gatsby-browser.js       @sthormio/devs
+gatsby-node.js          @sthormio/devs
+netlify.toml            @sthormio/devs
+package.json            @sthormio/devs
+yarn.lock               @sthormio/devs
