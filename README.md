@@ -1,6 +1,14 @@
+<style>
+.invertcolor {
+  filter: invert(100%);
+  -webkit-filter: invert(100%);
+}
+</style>
+
 <p align="center">
   <a href="https://sthorm.io">
-    <img alt="Sthorm favicon" src="https://d2kq0urxkarztv.cloudfront.net/5e24caef64d153225542adca/1705605/upload-58d8c82b-b548-4058-a98b-a0880bfcbd32.png?w=78" width="60" />
+    <img class="invertcolor" alt="Sthorm favicon" src="https://d2kq0urxkarztv.cloudfront.net/5e24caef64d153225542adca/1705605/upload
+    -58d8c82b-b548-4058-a98b-a0880bfcbd32.png?w=78" width="60" />
   </a>
 </p>
 <h1 align="center">
