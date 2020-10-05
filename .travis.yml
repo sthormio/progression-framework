@@ -10,22 +10,10 @@ before_script:
 script:
   - npm install
   - npm run build
-
-before_deploy:
-  - echo tolsta $TRAVIS_OS_NAME $BUILD_TYPE $TRAVIS_BRANCH $TRAVIS_TAG
-
-deploy:
-  - provider: pages
-    skip-cleanup: true
-    github-token: $GITHUB_TOKEN
-    local-dir: public
-    keep_history: false
-    on:
-      repo: sthormio/progression-framework
-      all_branches: true
-      branches:
-        except:
-          - gh-pages
+  - npm run deploy:ci
+#
+#before_deploy:
+#  - echo tolsta $TRAVIS_OS_NAME $BUILD_TYPE $TRAVIS_BRANCH $TRAVIS_TAG
 
 after_success:
   - wget https://raw.githubusercontent.com/DiscordHooks/travis-ci-discord-webhook/master/send.sh
