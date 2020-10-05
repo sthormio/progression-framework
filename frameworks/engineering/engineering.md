@@ -12,7 +12,7 @@ topics:
     content:
       - level: 1
         criteria:
-          - "Writes well tested code and documentation in-line with our engineering principles"
+          - "Proactively study and tries to understand the technology used by the team"
           - "Demonstrates understanding of common Software Engineering concepts"
           - "Works to develop their usage of tooling and systems, including their development environment, source control, and internal Sthorm tooling"
       - level: 2
@@ -59,7 +59,7 @@ topics:
         criteria:
           - "Writes well tested code and documentation in-line with our engineering principles"
           - "Demonstrates understanding of common Software Engineering concepts"
-          - "Works to develop their usage of tooling and systems, including their development environment, source control, and internal Sthorm tooling"
+          - "Maintain existing solutions"
       - level: 2
         criteria:
           - "Writes clear, well separated code that reflects coding guidelines and conventions, and can be easily understood by others"
@@ -117,6 +117,7 @@ topics:
           - "Proactively communicates progress to their team, attempts to unblock themselves, but seeks timely guidance where needed"
       - level: 3
         criteria:
+          - "Helps solve urgent technical problems"
           - "Works confidently with other domains (e.g. Design, Legal, Data, Risk) to help them understand the work the engineer’s team is doing"
           - "Regularly mentors other engineers, particularly those less experienced than themselves. Able to onboard new engineers into their team"
           - "Proactively seeks and gives timely, actionable feedback in their team. Feedback given has a positive impact on the overall contribution of others and their team"
