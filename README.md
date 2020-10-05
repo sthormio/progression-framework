@@ -7,6 +7,8 @@
     Progression at Sthorm
 </h1>
 
+<img alt="Build status" src="https://travis-ci.org/sthormio/progression-framework.svg"/>
+
 🎉 Welcome to the Progression at Sthorm repository
 
 This is where all of Sthorm's progression frameworks live, as well as the site that powers `progression.sthorm.io` 💪

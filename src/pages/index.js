@@ -53,7 +53,7 @@ export default class Index extends React.Component<Props> {
             </DescriptionText>
             <DescriptionText>
               To get involved, go to{' '}
-              <a href="https://github.com/Sthorm/progression-framework">
+              <a href="https://github.com/sthormio/progression-framework">
                 <FontAwesomeIcon icon={faGithub} />{' '}
                 @sthormio/progression-framework .
               </a>
