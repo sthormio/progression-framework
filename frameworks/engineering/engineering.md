@@ -91,6 +91,7 @@ topics:
           - "Has a proven track record of implementing significant improvements in quality, performance, stability and scalability to code they work on"
           - "Fosters a culture of quality within their collective. Proactively champions measures to test work, and gets buy in from stakeholders when this is not appreciated"
           - "Can understand the context of multiple different work streams, and offer effective technical advice and support for those workstreams while still maintaining excellent velocity"
+          - "Able to predict future problems"
       - level: 6
         criteria:
           - "Confident in setting out overall architectural vision on a company-wide scale, which has the ability to grow and flex effectively in line with business plans"
@@ -158,6 +159,7 @@ topics:
           - "Effective at creating and getting buy in for a multi-year technology strategy across the company, from Board level to individual engineers"
           - "Able to make and communicate difficult decisions when necessary"
           - "Leads by example to proactively foster an inclusive, diverse, and positive engineering culture across the business"
+          - "Helps less senior engineers rise up their level"
 ---
 ### About our engineering progression framework
 Our Engineering progression framework is a perpetual work-in-progress, and will never be "done". We've continued iterating on our progression framework since it was originally launched in 2017, and we're continuously learning and adapting it to suit the development needs of our engineers. This latest version sees us move away from multiple frameworks split across engineering disciplines. We decided instead to focus on the practice of engineering itself, and as such, it should not matter which programming language you choose to use.
