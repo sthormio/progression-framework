@@ -1,4 +1,3 @@
-
 ---
 path: "/design/tech-design"
 title: "🎯 Tech Design Framework"
