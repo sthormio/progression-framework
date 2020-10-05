@@ -36,6 +36,7 @@ topics:
           - "Proactively gives technical and strategic feedback on projects relevant to their expertise that leads to better outcomes"
           - "Impacts the trajectory of the company both through working on the most impactful problems and being able to bring about change with effective momentum"
           - "Links technical contribution back to business impact for their team or area, and helps others to buy into this"
+          - "Does code review to help improve team quality"
       - level: 5
         criteria:
           - "Meaningfully contributes to achieving company and collective goals and directly increases the company’s value over time"
