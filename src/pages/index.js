@@ -29,6 +29,15 @@ export default class Index extends React.Component<Props> {
           </DescriptionTitleGroup>
           <Description>
             <DescriptionText>
+              NOTICE: This a fork from Monzo&apos;s progression framework.
+              Please be kind and give them a star ⭐ at{' '}
+              <a href="https://github.com/monzo/progression-framework">
+                {' '}
+                <FontAwesomeIcon icon={faGithub} /> @monzo/progression-framework
+              </a>
+              .
+            </DescriptionText>
+            <DescriptionText>
               This is where we keep the progression frameworks we use at Sthorm.
             </DescriptionText>
             <DescriptionText>
@@ -59,11 +68,8 @@ export default class Index extends React.Component<Props> {
               </a>
             </DescriptionText>
             <DescriptionText>
-              You can find out more about progression at Sthorm and what it means
-              for us in this{' '}
-              <a href="https://sthorm.io/">
-                blog post.
-              </a>
+              You can find out more about Sthorm and what it means for us in
+              this <a href="https://sthorm.io/"> site.</a>
             </DescriptionText>
             <DescriptionText>
               Take a look around and let us know what you think! 🚀
