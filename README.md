@@ -1,15 +1,17 @@
 <p align="center">
-  <a href="https://www.monzo.com">
-    <img alt="Monzo favicon" src="https://d33wubrfki0l68.cloudfront.net/673084cc885831461ab2cdd1151ad577cda6a49a/92a4d/static/images/favicon.png" width="60" />
+  <a href="https://sthorm.io">
+    <img alt="Sthorm favicon" src="https://d2kq0urxkarztv.cloudfront.net/5e24caef64d153225542adca/1705605/upload-58d8c82b-b548-4058-a98b-a0880bfcbd32.png?w=78" width="60" />
   </a>
 </p>
 <h1 align="center">
-    Progression at Monzo
+    Progression at Sthorm
 </h1>
 
-🎉 Welcome to the Progression at Monzo repository
+<img alt="Build status" src="https://travis-ci.org/sthormio/progression-framework.svg"/>
 
-This is where all of Monzo's progression frameworks live, as well as the site that powers `progression.monzo.com` 💪
+🎉 Welcome to the Progression at Sthorm repository
+
+This is where all of Sthorm's progression frameworks live, as well as the site that powers `progression.sthorm.io` 💪
 
 **Get stuck? There's a glossary at the bottom of this readme!**
 
@@ -23,7 +25,8 @@ We mainly use GitHub in Engineering, as it allows engineers to review each other
 
 We're using GitHub to store our progression frameworks for a few reasons:
 - It's public (or open source), meaning we can share this with the community and allow them to contribute!
-- Monzonauts can "own" or manage a framework (or frameworks), meaning they get to control any changes or additions in that area
+- Sthormers can "own" or manage a framework (or frameworks), meaning they get to control any changes or additions in
+ that area
 - It means we can build a super fast site 🚀
 
 ## ❔ How does this work?
@@ -91,7 +94,7 @@ topics:
         criteria:
           - "Follows policies and procedures applicable to role. Completes training."
           - "Accepts feedback graciously and acts on it. Gives feedback when requested"
-          - "Builds relationships within monzo and contributes to building a supportive, knowledgable and engaged peer group"
+          - "Builds relationships within Sthorm and contributes to building a supportive, knowledgable and engaged peer group"
         exampleCriteria:
           -  criteria: "A criteria with an example point goes here"
              examples:
@@ -110,7 +113,7 @@ You can also add examples, by putting them in the `exampleCriteria` object, defi
 
 ---
 
-If you need any help and are a Monzonaut, ping @lucas a message or put a message in #org-scaling. Otherwise, feel free to raise an issue here in GitHub.
+If you need any help and are a Sthormnaut, ping @lucas a message or put a message in #org-scaling. Otherwise, feel free to raise an issue here in GitHub.
 
 ## ✏️ How do I edit a framework?
 
@@ -125,7 +128,7 @@ This will automatically save your changes and open a pull request, allowing the 
 
 **Repository (Repo)**: A folder in GitHub where files live
 
-*If you've seen the word 'repo', we're probably talking about the Progression Framework folder in GitHub that you're on right now (https://github.com/monzo/progression-framework)*
+*If you've seen the word 'repo', we're probably talking about the Progression Framework folder in GitHub that you're on right now (https://github.com/Sthorm/progression-framework)*
 
 **Pull Request (PR)**: A request to change a file, or multiple files on GitHub
 
@@ -137,4 +140,4 @@ This will automatically save your changes and open a pull request, allowing the 
 
 
 ### 🤓 Looking for technical documentation?
-Take a look at the readme in the `src/` directory (https://github.com/monzo/progression-framework/blob/master/src/README.md)
+Take a look at the readme in the `src/` directory (https://github.com/Sthorm/progression-framework/blob/master/src/README.md)

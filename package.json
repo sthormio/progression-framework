@@ -2,8 +2,8 @@
   "name": "@mondough/progression-framework",
   "private": true,
   "version": "1.0.0",
-  "description": "Monzo's progression framework site",
-  "author": "Lucas Johnston <lucasjohnston@monzo.com>",
+  "description": "Sthorm's progression framework site",
+  "author": "Alexandre Tolstenko <tolstenko@sthorm.io>",
   "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.12",
@@ -64,12 +64,13 @@
     "eslint-plugin-react": "^7.11.1",
     "flow-bin": "^0.86.0",
     "gatsby-plugin-eslint": "^2.0.1",
+    "gh-pages": "^3.1.0",
     "prettier": "^1.14.2",
     "raw-loader": "^0.5.1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/monzo/progression-framework.git"
+    "url": "git+https://github.com/sthormio/progression-framework.git"
   },
   "peerDependencies": {
     "@babel/core": "^7.0.0-0",

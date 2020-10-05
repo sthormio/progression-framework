@@ -1,13 +1,13 @@
 <p align="center">
-  <a href="https://www.monzo.com">
-    <img alt="Monzo favicon" src="https://d33wubrfki0l68.cloudfront.net/673084cc885831461ab2cdd1151ad577cda6a49a/92a4d/static/images/favicon.png" width="60" />
+  <a href="https://sthorm.io">
+    <img alt="Sthorm favicon" src="https://d2kq0urxkarztv.cloudfront.net/5e24caef64d153225542adca/1705605/upload-58d8c82b-b548-4058-a98b-a0880bfcbd32.png?w=78" width="60" />
   </a>
 </p>
 <h1 align="center">
-    Progression at Monzo
+    Progression at Sthorm
 </h1>
 
-This is a static site that displays the progression frameworks that Monzo use internally for our staff 🙌
+This is a static site that displays the progression frameworks that Sthorm use internally for our staff 🙌
 
 It's built in Gatsby, and deployed using Netlify.
 
