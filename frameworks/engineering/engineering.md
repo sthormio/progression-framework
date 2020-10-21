@@ -7,6 +7,36 @@ yaml: true
 levels: 6
 homepage: true
 topics:
+  - name: "Overview"
+    title: "Overview"
+    content: 
+      - level: 1
+        criteria:
+          - "Student"
+          - "Entry Level"
+          - "Software engineering intern, expected to be in the junior or senior year of a four year degree program."
+          - "Maintain existing solutions" 
+          - "Ceil: 3K"
+      - level: 2
+        criteria:
+          - "Full time dev"
+          - "Entry Level"
+          - "An L2 SWE is generally someone who recently graduated with an undergraduate or Master's degree, or equivalent education."
+          - "Ceil 5k"
+      - level: 3
+        criteria:
+          - "2+ years of experience in any technology"
+          - "Someone with several years of experience after graduation, or for someone who just finished a PhD in a technical field."
+          - "Ceil 9k"
+      - level: 4
+        criteria:
+          - "Technical Writing skills"
+      - level: 5
+        criteria:
+          - "xxx"
+      - level: 6
+        criteria:
+          - "xxx"            
   - name: "Impact"
     title: "💥 Impact"
     content:
@@ -130,6 +160,7 @@ topics:
           - "Works confidently and effectively, and persists when faced with uncertainty or ambiguity. Pulls in support from around the company where needed"
       - level: 4
         criteria:
+          - "Organize study groups / dojo / hackathons"
           - "Can clearly and confidently articulate risk of technical problems to non technical stakeholders (e.g legal, compliance)"
           - "Communicates effectively when representing  Sthorm to external stakeholders (e.g auditors, regulators, third-parties, or industry groups) when appropriate"
           - "Actively and regularly offers well considered contributions to the roadmap of their team or business area"
