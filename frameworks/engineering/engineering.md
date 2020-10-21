@@ -162,7 +162,7 @@ topics:
           - "Helps less senior engineers rise up their level"
 ---
 ### About our engineering progression framework
-Our Engineering progression framework is a perpetual work-in-progress, and will never be "done". We've continued iterating on our progression framework since it was originally launched in 2017, and we're continuously learning and adapting it to suit the development needs of our engineers. This latest version sees us move away from multiple frameworks split across engineering disciplines. We decided instead to focus on the practice of engineering itself, and as such, it should not matter which programming language you choose to use.
+Our Engineering progression framework is a perpetual work-in-progress, and will never be "done". We're continuously learning and adapting it to suit the development needs of our engineers.
 
 The purpose of the framework is to guide conversations around performance and progression between managers and engineers at Sthorm. It articulates the expectations of each broad level, the level of impact we expect engineers to bring to business problems, and the manner in which engineers should be conducting their work. This document is not designed to be useful as a standalone tool. *This is a compass, not a GPS.*
 
