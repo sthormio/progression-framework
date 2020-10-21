@@ -27,16 +27,19 @@ topics:
         criteria:
           - "2+ years of experience in any technology"
           - "Someone with several years of experience after graduation, or for someone who just finished a PhD in a technical field."
+          - "Mid Level"
           - "Ceil 9k"
       - level: 4
         criteria:
           - "Technical Writing skills"
+          - "Mid Level"
       - level: 5
         criteria:
-          - "xxx"
+          - "6+ years experience in a specific stack"
+          - "Senior Level"
       - level: 6
         criteria:
-          - "xxx"            
+          - "Senior Level"            
   - name: "Impact"
     title: "💥 Impact"
     content:
@@ -107,6 +110,9 @@ topics:
           - "Proactively identifies problems in our product or platform. Improves areas of the code they work on. Leaves things better than they found them"
       - level: 4
         criteria:
+          - "Create and maintain boilerplates"
+          - "Lectures on external and internal events"
+          - "Knows the impacts of a deploy and its dependencies or consequences"
           - "Consistently leads their squad to good outcomes from a technical perspective, ensuring appropriate engineering decisions are made to factor in technical debt, systems design and architecture"
           - "Is regularly recognised in their team and collective for highly impactful technical contributions of the highest quality"
           - "Proposes changes to technical scope to handle changing business priorities or urgency"
@@ -160,7 +166,12 @@ topics:
           - "Works confidently and effectively, and persists when faced with uncertainty or ambiguity. Pulls in support from around the company where needed"
       - level: 4
         criteria:
+          - "Knows how to prioritize tasks in order to avoid tasks being blocked"
           - "Organize study groups / dojo / hackathons"
+          - "Knows how to extract requirements from stakeholders"
+          - "Knows how to organize and guide meetings"
+          - "Understands the cost x benefits and pareto relation"
+          - "Create and maintain Roadmaps, Epics, Milestones, User Stories, and knows how to Manage Backlogs"
           - "Can clearly and confidently articulate risk of technical problems to non technical stakeholders (e.g legal, compliance)"
           - "Communicates effectively when representing  Sthorm to external stakeholders (e.g auditors, regulators, third-parties, or industry groups) when appropriate"
           - "Actively and regularly offers well considered contributions to the roadmap of their team or business area"
