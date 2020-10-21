@@ -36,6 +36,11 @@ topics:
       - level: 5
         criteria:
           - "6+ years experience in a specific stack"
+          - "Generates value via tecnical skills, soft skills, community presence or oxperience"
+          - "Knows the right moment to delegate activities on your responsability to increase throughput"
+          - "Guides people on how to grow tnside the company or personally"
+          - "Act as a confluence point where others feel confortable to discuss project problems"
+          - "Stimulates team proactivity"
           - "Senior Level"
       - level: 6
         criteria:
@@ -72,6 +77,8 @@ topics:
           - "Does code review to help improve team quality"
       - level: 5
         criteria:
+          - "Writes posts is external medias helping promote the company"
+          - "Help others write their lectures or blog posts"
           - "Meaningfully contributes to achieving company and collective goals and directly increases the company’s value over time"
           - "Sought out by others for contribution on our most pressing and highest priority business challenges because they’re known to be effective"
           - "Leads large, strategic, complex engineering projects - often crossing collective boundaries"
@@ -122,6 +129,10 @@ topics:
           - "Contributes to architecture forums, takes part in initiatives to improve the practices of the engineering discipline"
       - level: 5
         criteria:
+          - "Maintain internal shared libraries"
+          - "Is recognized by community for its publications or repositories"
+          - "Has relevant contribtions on open source projects"
+          - "Is a known maintainer of a relevant open source project"
           - "Leads architectural system designs on the most complex systems"
           - "Demonstrates high product awareness for areas of the business they are working with"
           - "Has a proven track record of implementing significant improvements in quality, performance, stability and scalability to code they work on"
@@ -185,6 +196,14 @@ topics:
       - level: 5
         criteria:
           - "Understands importance of product-market fit and works closely with product leadership to ensure we're making the right decisions across one or more squads"
+          - "Is able to conciliate strategy with development"
+          - "Manage clients expectations"
+          - "Understands the business and knows how to pricify features"
+          - "Is able to explain tradeoffs on each possible decision"
+          - "Is able to predict problems and future issues and features"
+          - "Create and implement processes"
+          - "Identify and prioritize most value generator activities yor the company"
+          - "Team rely on it trustfully to manage crysis"
           - "Proactively identifies problems that challenge our scale or business direction. Effectively communicates these and supports changes to adapt to these challenges"
           - "Is widely considered an expert in one or more areas by their peers, and collective and company leadership"
           - "Steps up to lead when required, even if not explicitly asked of them"
@@ -247,3 +266,31 @@ Your work is resilient, well tested and scales to meet customer growth expectati
 Behaviours are a collection of expectations and development areas for engineers, that do not fall into the categories of technical skill and impact. They encompass a range of core skills that we expect engineers at Sthorm to embody.
 
 Through your behaviour you set an example to those around you. By modelling great behaviours you lead by example, and by being self-aware you know when you are setting a great example. Your behaviours show that you’re growing good habits, and cultivating qualities that make an excellent engineer, rather than unintentionally doing the “right thing” by luck.
+
+
+### Extra levels
+
+Staff Software Engineer (L7 | Manager II equivalent | 10+ years experience)
+- The leadership increasingly becomes the primary criteria by which performance is judged. Many, though by no means all, SWEs begin managing a team of engineers by this point in their career. When hiring externally, ten or more years of experience are generally expected.
+- Is typically a manager of a team of ten to twenty, sometimes a mixture of direct reports and managing other managers. When hiring externally, 10+ years of experience is expected.
+
+Senior Staff Software Engineer (L8 | Senior Manager | Manager III | ProductLead)
+- It is essentially L7 with larger expectations. Guidance for years of experience begins to break down at this level, as most candidates with ten or more years experience will be hired at Level 7 unless there is a strong reason to offer a higher level. Involvement of the hiring manager or strong pushback by the candidate can sometimes push the offer to Level 8.
+- Begins the transition to be primarily a manager of managers. Teams are larger than L7, typically twenty to forty.
+
+Principal Engineer (L9 | Director)
+- It is the first level which is considered an executive of the corporation for the purposes of remuneration and corporate governance. Principal Software Engineers drive technical strategy in relatively large product areas. SWEs at level 9 or above are relatively rare: the equivalent level on the manager ladder will routinely have five or more times as many people as on the SWE ladder. By this level of seniority, most people are focussed on management and leadership.
+- Directors are mostly managers of managers, and typically lead organizations of forty up to several hundred people.
+
+Distinguished Engineer (L10 | Senior Director)
+- Drives technical strategy in efforts spanning a large technical area.
+- is basically a secret level: all of the internal tools will show only "Director," and by tradition promotions to Senior Director are not publicly announced. Senior Directors may lead slightly larger organizations than L9 Directors, though mostly it provides a way to have a larger gap between Director and VP while still allowing career progression.
+
+Fellow (L11 | Vice President)
+- It is the same level as a Vice President, expected to drive technical strategy and investment in crucial areas.
+- typically leads organizations of hundreds to thousands of people. Their direct reports will typically be Directors and will be second to third level managers themselves.
+
+Senior Fellow (L12 | Senior Vice President)
+- Only mythological guys
+- like Senior Director, is shown only as "VP" in internal tools and provides a way to maintain a larger gap between VP and SVP while still allowing managers to advance in their careers.
+
