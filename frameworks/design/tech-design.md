@@ -3,8 +3,55 @@ path: "/design/tech-design"
 title: "🎯 Tech Design Framework"
 sidebarTitle: "🎯 Tech Design"
 sidebarGroup: "design"
-yaml: false
+yaml: true
 levels: 4
+homepage: true
+topics:
+  - name: "Impact"
+    title: "💥 Impact"
+    content:
+      - level: 1
+        criteria:
+
+      - level: 2
+        criteria:
+
+      - level: 3
+        criteria:
+
+      - level: 4
+        criteria:
+
+  - name: "Technical Skills"
+    title: "🛠️ Technical Skills"
+    content:
+      - level: 1
+        criteria:
+
+      - level: 2
+        criteria:
+
+      - level: 3
+        criteria:
+
+      - level: 4
+        criteria:
+
+  - name: "Behaviours"
+    title: "✨ Behaviours"
+    content:
+      - level: 1
+        criteria:
+
+      - level: 2
+        criteria:
+
+      - level: 3
+        criteria:
+        
+      - level: 4
+        criteria:
+---
 homepage:
 ---
 ## Level 1
