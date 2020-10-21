@@ -53,7 +53,7 @@ topics:
         criteria:
         - "To create a good and productive environment on your team is the first step to create remarkable products. The business team trusts you to fully understand all the steps needed for the delivery and the creative team trusts you on the experience and quality of the results. Your team trusts you to respect pipelines and healthy work hours."
 ---
-### About Tech-Design Progression Framework 
+### About Tech Design Progression Framework 
 
 The Tech Design team progression framework was build not only to guide the team forward but also to inspire those who seek more responsabilities to achieve higher levels of understanding and commitment to what we do.
 
