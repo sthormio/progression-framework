@@ -16,27 +16,25 @@ topics:
           - "Entry Level"
           - "Software engineering intern, expected to be in the junior or senior year of a four year degree program."
           - "Maintain existing solutions" 
-          - "Ceil: 3K"
       - level: 2
         criteria:
           - "Full time dev"
           - "Entry Level"
           - "An L2 SWE is generally someone who recently graduated with an undergraduate or Master's degree, or equivalent education."
-          - "Ceil 5k"
       - level: 3
         criteria:
           - "2+ years of experience in any technology"
           - "Someone with several years of experience after graduation, or for someone who just finished a PhD in a technical field."
           - "Mid Level"
-          - "Ceil 9k"
       - level: 4
         criteria:
           - "Technical Writing skills"
+          - "4+ years experience in a specific stack"
           - "Mid Level"
       - level: 5
         criteria:
           - "6+ years experience in a specific stack"
-          - "Generates value via tecnical skills, soft skills, community presence or oxperience"
+          - "Generates value via technical skills, soft skills, community presence or oxperience"
           - "Knows the right moment to delegate activities on your responsability to increase throughput"
           - "Guides people on how to grow tnside the company or personally"
           - "Act as a confluence point where others feel confortable to discuss project problems"
@@ -44,7 +42,8 @@ topics:
           - "Senior Level"
       - level: 6
         criteria:
-          - "Senior Level"            
+          - "Senior Level"
+          - "10+ years of experience with any stack"            
   - name: "Impact"
     title: "💥 Impact"
     content:
