@@ -183,7 +183,8 @@ Levels in the framework are cumulative. Particularly within the technical skill 
 Impact is the main driver for progression at Sthorm. Put simply, impact measures your sphere of influence and individual input on our success as a business, through contributing to Sthorm’s mission and goals. The area of the business you work in may mean you can have impact in different ways - for instance through contributing to growth, helping with efficiency or cost reduction, meeting regulatory requirements, or more. You may also have impact in other indirect ways, for example improving engineering practices, or helping others to grow.
 
 Focusing on impact enables us to reward engineers who “get stuff done” without them needing to perform specific routines. We believe impact results from the combination of building technical skill, having the opportunity to demonstrate it, learning from that experience over time, and coupling it with important behaviours and core skills.
-Excellence here looks like
+
+Excellence here looks like:
 The work you choose to do drives team, discipline and business goals forward (relevant to the scope of your role).
 You proactively identify opportunities to further goals within engineering, and bring clarity to opportunities in order to prioritise them.
 You “get things done”. You work for the team, and are regarded as a highly effective contributor by your peers.
@@ -194,7 +195,7 @@ This aspect is about how you apply your technical skills and hone your craft, an
 
 Our previous iteration was called “Mastery”, and focussed on discrete behaviours. We found this led to engineers “checkboxing” their progression, and was often overly specific to certain areas of the business. Behaviours in this area should not detract engineers from doing what is most impactful for their team and Sthorm. Instead, this iteration focuses on measuring technical contribution via quality, testability, performance and ability to design and critique designs. Your technical skills will gradually scale and improve with experience.
 
-Excellence here looks like
+Excellence here looks like:
 Your code and technical contribution is regarded as high quality by your peers and those above you in the framework.
 You can efficiently design systems to solve business problems, and can resolve ambiguity, both at the technical and product level.
 Your systems are designed with the appropriate level of complexity for the problem at hand. Your software is as simple as possible, but no simpler.
@@ -202,7 +203,5 @@ Your work is resilient, well tested and scales to meet customer growth expectati
 
 ### Behaviours
 Behaviours are a collection of expectations and development areas for engineers, that do not fall into the categories of technical skill and impact. They encompass a range of core skills that we expect engineers at Sthorm to embody.
-
-In the previous iteration of our framework these were further broken down into influence, communication and leadership, however in this iteration we’re bringing them together.
 
 Through your behaviour you set an example to those around you. By modelling great behaviours you lead by example, and by being self-aware you know when you are setting a great example. Your behaviours show that you’re growing good habits, and cultivating qualities that make an excellent engineer, rather than unintentionally doing the “right thing” by luck.
