@@ -2,7 +2,7 @@
 path: "/executive-support"
 title: "👭 Executive Support Framework"
 sidebarTitle: "👭 Executive Support"
-sidebarGroup:
+sidebarGroup: "operations"
 yaml: true
 levels: 5
 homepage: false

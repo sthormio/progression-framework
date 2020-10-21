@@ -2,7 +2,7 @@
 path: "/customer-operations"
 title: "💬 Customer Operations Framework"
 sidebarTitle: "💬 Customer Operations"
-sidebarGroup:
+sidebarGroup: "operations"
 yaml: true
 levels: 2
 homepage: false
@@ -103,3 +103,6 @@ topics:
           - "Communicates and escalates risks related to tasks and business area"
           - "Ensures colleagues actively analyse and address risks in their area"
 ---
+### Needs Revision
+
+This page needs to be reviewed

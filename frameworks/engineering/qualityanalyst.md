@@ -2,7 +2,7 @@
 path: "/engineering/quality"
 title: "🕵🏽‍♂️ Quality Analyst Framework"
 sidebarTitle: "🕵🏽‍♂️ Quality"
-sidebarGroup: "engineering"
+sidebarGroup: "Technology"
 yaml: true
 levels: 3
 homepage: true

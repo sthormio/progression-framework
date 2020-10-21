@@ -2,7 +2,7 @@
 path: "/marketing"
 title: "🎉 Marketing Framework"
 sidebarTitle: "🎉 Marketing"
-sidebarGroup:
+sidebarGroup: "Marketing"
 yaml: true
 levels: 7
 homepage: false
