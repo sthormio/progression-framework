@@ -55,8 +55,8 @@ topics:
 ---
 ### About Tech Design Progression Framework 
 
-The Tech Design team progression framework was build not only to guide the team forward but also to inspire those who seek more responsabilities to achieve higher levels of understanding and commitment to what we do.
+The Tech Design team progression framework was built not only to guide the team forward but also to inspire those who seek more responsibilities to achieve higher levels of understanding and commitment to what we do. 
 
-As the perspective and objetives of the team changes through time, the framework will be updated to follow this vision up close.
+As the perspective and objectives of the team changes through time, the **framework will be updated to follow these goals up close**. 
 
-The content of this document is an agreement on responsabilities and abilities that reflect upon each member of the crew. Not all abilities are listed, some key points are especific to eachone, feel free to share and add up to your position!
+The content of this document is an agreement on responsibilities and abilities that reflect upon each member of the crew. **Not all abilities are listed here**, some key points are specific to each one, feel free to share and add up to your position!
