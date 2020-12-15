@@ -48,8 +48,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "start": "npm run develop",
-    "deploy": "firebase deploy",
-    "deploy:ci": "npm run build && firebase deploy --token \"$FIREBASE_TOKEN\"",
+    "deploy": "firebase deploy --only hosting:progression-sthorm",
+    "deploy:ci": "npm run build && firebase deploy --only hosting:progression-sthorm --token \"$FIREBASE_TOKEN\"",
     "format": "prettier --write \"src/**/*.js\"",
     "test": "echo \"Error: no test specified\" && exit 1",
     "flow": "flow"
